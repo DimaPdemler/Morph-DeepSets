@@ -1,4 +1,8 @@
+*.pyc
+
 raw_data/
 normalized_data/
 normalized_data2/
+normalized_data3/
 .DS_Store
+models/
